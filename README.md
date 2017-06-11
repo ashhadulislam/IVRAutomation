@@ -1,5 +1,6 @@
 # IVRAutomation
-Making the IVR process voice automated
+Making the IVR process voice automated.
+
 Started working on developing a prototype for Vodafone in India (199)
 Information like
   1. Balance & Validity
