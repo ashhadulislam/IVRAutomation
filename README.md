@@ -13,6 +13,7 @@ Information like
   8. Mobile number change
   9. Portability
   10. PIN Unlock Key
+
 Tools Used:
   1. Google Speech API (to transcribe audio) [https://cloud.google.com/speech/]
   2. Python PyAudio (to record audio)
